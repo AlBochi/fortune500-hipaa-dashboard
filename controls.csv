@@ -1,0 +1,8 @@
+Control,Name,Status,Last Reviewed,Evidence,Owner,Systems Affected,Severity
+§164.308,Administrative Safeguards,✅,2025-07-01,evidence/164.308.pdf,Compliance Team,All,High
+§164.312,Access Control,⚠️,2025-06-20,evidence/164.312.pdf,IAM Team,AWS IAM/GCP IAM,High
+§164.314,Organizational Requirements,✅,2025-07-01,evidence/164.314.pdf,Legal Team,All,Medium
+§164.316,Policies and Procedures,❌,2025-04-01,evidence/164.316.pdf,Security Team,Confluence,High
+§164.306,Security Standards,✅,2025-06-15,evidence/164.306.pdf,CISO Office,All,Critical
+§164.310,Physical Safeguards,✅,2025-05-30,evidence/164.310.pdf,Facilities,GCP DCs,Medium
+§164.312(e)(1),Transmission Security,⚠️,2025-06-25,evidence/164.312-e1.pdf,Networking Team,AWS VPC/GCP VPC,High
