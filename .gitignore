@@ -1,0 +1,13 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore evidence markdown source files
+evidence/*.md
+
+# VSCode and system files
+.vscode/
+.DS_Store
