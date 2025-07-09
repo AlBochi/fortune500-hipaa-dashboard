@@ -1,0 +1,4 @@
+SystemID,Environment,Owner,Compliance Tier,HIPAA Controls
+AWS-PRD-001,Production,Platform Team,Tier 1,"§164.308,§164.312"
+GCP-ANL-003,Analytics,Data Team,Tier 2,"§164.306,§164.310"
+AZR-BAK-007,Backup,Infra Team,Tier 1,"§164.312,§164.314"
